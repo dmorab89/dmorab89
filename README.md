@@ -21,13 +21,12 @@ Junior Web Developer • Data Science Engineering Student
 
 # 🚀 About Me
 
-- 🎓 Technical Degree in Web Development
-- 📚 Bachelor's Degree in Data Science Engineering
-- 🌱 Currently learning **React**
-- 💻 Interested in Front-End and Full Stack Development
-- 🎯 Open to internship and junior developer opportunities
 
----
+Junior Web Developer with a Technical Degree in Web Development. Currently pursuing a Bachelor's Degree in Data Science Engineering at Universidad Fidélitas.
+
+I'm focused on building responsive web applications, expanding my technical skills, and gaining practical experience through real-world projects.
+
+
 
 # 💻 Languages
 
@@ -37,7 +36,7 @@ Junior Web Developer • Data Science Engineering Student
 
 </p>
 
----
+
 
 # 🛠 Technologies & Tools
 
@@ -47,7 +46,7 @@ Junior Web Developer • Data Science Engineering Student
 
 </p>
 
----
+
 
 # 🚀 Featured Projects
 
@@ -62,13 +61,13 @@ Responsive website developed for my family's bakery.
 - Contact Form
 - Business Information
 
----
+
 
 ## 🌐 Personal Portfolio *(Coming Soon)*
 
 Portfolio showcasing my projects, skills and experience.
 
----
+
 
 # 📊 GitHub Analytics
 
@@ -86,17 +85,10 @@ Portfolio showcasing my projects, skills and experience.
 
 </p>
 
----
 
-# 🏆 GitHub Trophies
 
-<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dmorab89&theme=onedark&no-frame=true&row=1&column=6"/>
 
-</p>
-
----
 
 # 📈 Activity Graph
 
@@ -106,7 +98,7 @@ Portfolio showcasing my projects, skills and experience.
 
 </p>
 
----
+
 
 # 🤝 Let's Connect
 
