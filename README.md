@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Darren Mora</h1>
+
 
 <h3 align="center">
 Junior Web Developer • Data Science Engineering Student
@@ -21,11 +21,9 @@ Junior Web Developer • Data Science Engineering Student
 
 # 🚀 About Me
 
-
 Junior Web Developer with a Technical Degree in Web Development. Currently pursuing a Bachelor's Degree in Data Science Engineering at Universidad Fidélitas.
 
-I'm focused on building responsive web applications, expanding my technical skills, and gaining practical experience through real-world projects.
-
+I enjoy building responsive, user-friendly web applications with clean and maintainable code. I'm continuously improving my skills through personal projects and always looking for opportunities to grow as a developer.
 
 
 # 💻 Languages
