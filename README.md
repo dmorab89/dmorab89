@@ -58,9 +58,9 @@ Portfolio showcasing my projects, skills and experience.
 
 <p align="center">
   
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dmorab89&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dmorab89&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmorab89&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmorab89&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&cache_seconds=1800"/>
 
 </p>
 
