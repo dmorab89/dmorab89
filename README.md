@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="images/Diseño sin título.png" width="100%"/>
+<img src="Diseño sin título.png" width="100%"/>
 
 
 
