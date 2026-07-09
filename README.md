@@ -26,9 +26,8 @@ I enjoy building responsive, user-friendly web applications with clean and maint
 # 🛠 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode,figma,react,nodejs,express,mongodb,docker,postman,tailwind&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,,windows,linux&perline=7"/>
 </p>
-
 
 
 # 🚀 Featured Projects
