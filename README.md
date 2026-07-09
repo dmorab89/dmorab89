@@ -82,18 +82,6 @@ A responsive website developed for my family's bakery featuring product catalog,
 
 ---
 
-### 💼 Personal Portfolio
-
-A modern portfolio showcasing my projects, skills and experience as a web developer.
-
----
-
-### 📊 Data Dashboard *(Coming Soon)*
-
-Interactive dashboard built with JavaScript and Python for data visualization.
-
----
-
 # 📊 GitHub Analytics
 
 
@@ -116,11 +104,11 @@ Interactive dashboard built with JavaScript and Python for data visualization.
 
 <p>
 
-<a href="TU_LINKEDIN">
+<a href="https://www.linkedin.com/in/darren-mora-5734412b7/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:TU_EMAIL">
+<a href="mailto:darrenmorabrenes0313@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
