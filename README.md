@@ -4,9 +4,7 @@
 Junior Web Developer • Data Science Engineering Student
 </h3>
 
-<p align="center">
-Passionate about building modern, responsive, and user-friendly web applications.
-</p>
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/darren-mora-5734412b7/">
