@@ -2,11 +2,6 @@
 
 <img src="Diseño sin título.png" width="100%"/>
 
-
-
-</a>
-
-
 </p>
 
 ---
