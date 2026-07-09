@@ -17,7 +17,7 @@ I enjoy building responsive, user-friendly web applications with clean and maint
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql"/>
+<img height="170" src="https://skillicons.dev/icons?i=html,css,js,python,mysql"/>
 
 </p>
 
