@@ -17,7 +17,7 @@ I enjoy building responsive, user-friendly web applications with clean and maint
 
 <p align="center">
 
-<img height="170" src="https://skillicons.dev/icons?i=html,css,js,python,mysql"/>
+<img height="170" src="https://skillicons.dev/icons?i=html,css,js,python,mysql,react"/>
 
 </p>
 
@@ -26,7 +26,7 @@ I enjoy building responsive, user-friendly web applications with clean and maint
 # 🛠 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,,windows,linux&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux&perline=7"/>
 </p>
 
 
