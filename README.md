@@ -27,7 +27,6 @@ I enjoy building responsive, user-friendly web applications with clean and maint
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,react"/>
 
 </p>
 
@@ -57,7 +56,7 @@ Portfolio showcasing my projects, skills and experience.
 # 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dmorab89&show_icons=true&theme=tokyonight">
+
 
   
 </p>
@@ -67,7 +66,8 @@ Portfolio showcasing my projects, skills and experience.
 # 📈 Activity Graph
 
 <p align="center">
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dmorab89&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmorab89&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dmorab89&theme=github-dark"/>
 
 </p>
