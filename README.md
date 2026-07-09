@@ -54,7 +54,7 @@ Portfolio showcasing my projects, skills and experience.
 ## 📚 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
 </p>
 
 
