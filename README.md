@@ -76,7 +76,7 @@ Portfolio showcasing my projects, skills and experience.
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dmorab89" />
+ <img src="https://github-readme-stats.vercel.app/api?username=dmorab89&show_icons=true" />
 </p>
 
 
