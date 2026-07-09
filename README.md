@@ -84,13 +84,12 @@ Portfolio showcasing my projects, skills and experience.
 # 🤝 Let's Connect
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/darren-mora-5734412b7/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/darren-mora-5734412b7/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
 <a href="mailto:darrenmorabrenes0313@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
 </p>
