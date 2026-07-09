@@ -59,10 +59,12 @@ Portfolio showcasing my projects, skills and experience.
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=dmorab89&show_icons=true&theme=tokyonight"/>
   
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmorab89&layout=compact&theme=tokyonight"/>
+  
 </p>
 
-
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmorab89&layout=compact&theme=tokyonight"/>
+</p>
 
 
 # 📈 Activity Graph
