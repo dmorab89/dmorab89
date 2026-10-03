@@ -74,8 +74,6 @@ Portfolio showcasing my projects, skills and experience.
   <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
-<a href="mailto:darrenmorabrenes0313@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
-</a>
+
 
 </p>
