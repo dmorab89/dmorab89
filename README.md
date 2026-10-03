@@ -62,9 +62,12 @@ Portfolio showcasing my projects, skills and experience.
 # 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dmorab89&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dmorab89&theme=tokyo-night&hide_border=true&bg_color=0D1117"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
 </p>
-
 
 
 # 🤝 Let's Connect
