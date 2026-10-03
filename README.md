@@ -61,18 +61,7 @@ Portfolio showcasing my projects, skills and experience.
 
 # 📈 Activity Graph
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=dmorab89&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmorab89&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dmorab89&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="70%" alt="GitHub Stats" /> </p>
 
 
 # 🤝 Let's Connect
